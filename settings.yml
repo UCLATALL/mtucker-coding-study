@@ -1,4 +1,6 @@
-      lessons:
+modules: 
+     - name: "Click Here to Start the Study"
+       lessons:
             - name: "Getting Started"
               file: "00-getting-started.md"
               shortName: "about"
