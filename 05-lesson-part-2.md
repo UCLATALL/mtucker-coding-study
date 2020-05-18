@@ -35,6 +35,7 @@ Characters are comprised of text, such as words or sentences. (Numbers can also 
 
 Boolean values are either TRUE or FALSE. Maybe we have a question such as: Is the first element in the vector `my.vector2` “a”? We can ask R to find out and return the answer TRUE or FALSE. We can do that by using the comparison operator `==` (it just means equal). Run the code below to see how it works.
 
+
 <iframe data-type="datacamp" id="example-07" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-07.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 In the code above, we used brackets with a number in it to select a single element in a vector. In the code above, we selected of the first position in `my.vector2` by writing  my.vector2[1]. We then used the comparison operator `==` to see if that element is equal to "a".
