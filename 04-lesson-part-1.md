@@ -4,20 +4,17 @@
 
 Here’s a bit of R (what we sometimes refer to as “code”). Read the code in the window below.  What do you think it will do? Click Run to see what happens.
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-01.html" style="border: 0px #ffffff none;" width="90%"></iframe>
-
+<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-01.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Let's try another one.   Read the code and see if you can guess what it will do.  Then click Run to see what happens.  
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-02.html" style="border: 0px #ffffff none;" width="90%"></iframe>
-
+<iframe data-type="datacamp" id="example-02" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-02.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 This bit of code printed out the sum of 1, 5, and 10 (that is, 16).
 
 You can also use R like a basic calculator.  Try running this code to see how it works.
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-03.html" style="border: 0px #ffffff none;" width="90%"></iframe>
-
+<iframe data-type="datacamp" id="example-03" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-03.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 ## R Functions
 
@@ -27,18 +24,18 @@ Functions have two basic parts. The first part is the name of the function (e.g.
 
 Try running the `rflip()` function to see what it does. Then, try setting the `n =` argument to different values and see what happens.
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-04.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="example-04" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-04.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 
 *Great coding!* Now, let's practice what you've learned! Answer each question in the R window. Click **submit** to check your answer
 
 ## Practice Question 1
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-01.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="practice-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-01.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 ## Practice Question 2
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-02.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="practice-02" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-02.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 
 ## Summary
