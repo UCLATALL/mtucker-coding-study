@@ -30,7 +30,7 @@
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
       ex() %>% check_error()
-      ex() %>% check_function_result("sum") %>% check_equal()
+      ex() %>% check_function("sum") %>% check_result() %>% check_equal() 
 
     </code>
   </div>
