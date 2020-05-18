@@ -10,8 +10,7 @@ Pretty much anything, including the results of any R function, can be saved in a
 
 Here’s a simple example to show how it’s done. Let’s make up a name for an R object; we will call it `my_fav_num`. Then let’s think of what our favorite number is (say, 20), and save it in the R object. Go ahead and run the code below to see how this works.
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-05.html" style="border: 0px #ffffff none;" width="90%"></iframe>
-
+<iframe data-type="datacamp" id="example-05" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-05.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 # Vectors
 
@@ -19,7 +18,7 @@ We’ve used R objects so far to store a single value. But an R object can also 
 
 The R function  `c()`  can be used to combine a list of individual values into a vector. You could think of the “c” as standing for “combine.” Run to code below to see how it works.  
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-06.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="example-06" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-06.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 As you can see from the example above, vectors can store different types of values.
 
@@ -36,7 +35,7 @@ Characters are comprised of text, such as words or sentences. (Numbers can also 
 
 Boolean values are either TRUE or FALSE. Maybe we have a question such as: Is the first element in the vector `my.vector2` “a”? We can ask R to find out and return the answer TRUE or FALSE. We can do that by using the comparison operator `==` (it just means equal). Run the code below to see how it works.
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-07.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="example-07" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-example-07.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 In the code above, we used brackets with a number in it to select a single element in a vector. In the code above, we selected of the first position in `my.vector2` by writing  my.vector2[1]. We then used the comparison operator `==` to see if that element is equal to "a".
 
@@ -47,9 +46,10 @@ Most of the questions we ask R to answer with a TRUE or FALSE involve comparison
 
 # Practice Question 3
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-03.html" style="border: 0px #ffffff none;" width="90%"></iframe>
-
+<iframe data-type="datacamp" id="practice-03" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-03.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 # Practice Question 4
 
-<iframe frameborder="0" height="400" scrolling="no" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-04.html" style="border: 0px #ffffff none;" width="90%"></iframe>
+<iframe data-type="datacamp" id="practice-04" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dcl-practice-04.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+
+*Nice coding!* Click **Next** to continue
