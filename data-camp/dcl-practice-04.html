@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset="UTF-8">
+    <title>Practice 5</title>
+    <!--DataCamp Light script-->
+    <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
+</head>
+<body>
+  <!--DataCamp window-->
+  <div data-datacamp-exercise data-lang="r" data-show-run-button=false data-show-solution-before=false data-no-lazy-load=true>
+    <!--Prerun R environment-->
+    <code data-type="pre-exercise-code">
+      packages <- c("mosaic", "Lock5withR", "Lock5Data", "supernova", "ggformula")
+      lapply(packages, library, character.only = T)
+
+    </code>
+    <!--Student view-->
+    <code data-type="sample-code">
+      # Debug the code below - fix it so that it doesn't produce an error
+      vector1 <- c(2, 3, 5, 6, 7)
+      vector2 <- c("apple", "orange" "banana", "avocado")
+
+      sum(vector2)
+
+    </code>
+    <!--Solution environment-->
+    <code data-type="solution">
+      # Debug the code below - fix it so that it doesn't produce an error
+      vector1 <- c(2, 3, 5, 6, 7)
+      vector2 <- c("apple", "orange", "banana", "avocado")
+
+      sum(vector1)
+
+    </code>
+    <!--Submission correctness tests and feedback-->
+    <code data-type="sct">
+
+      ex() %>% check_error()
+
+    </code>
+  </div>
+</body>
+</html>
