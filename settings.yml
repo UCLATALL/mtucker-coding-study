@@ -20,9 +20,6 @@ modules:
               file: "05-lesson-part-2.md"
               shortName: "lesson-hard"
             - name: "Lesson Summary"
-              file: "study/07-lesson-summary.md"
-              shortName: "lesson-summary"
-            - name: "Lesson Summary"
               file: "06-lesson-summary.md"
               shortName: "lesson-summary"
     
