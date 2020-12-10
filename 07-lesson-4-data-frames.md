@@ -1,4 +1,4 @@
-#Lesson 4: Data Frames and More Functions
+# Lesson 4: Data Frames and More Functions
 
 You might have been wondering about the other things that a health tracker app collects. What about hours of sleep? What about distance walked? What about heart rate?
 

@@ -1,4 +1,4 @@
-#Lesson 1: Operators
+# Lesson 1: Operators
 
 Most programming languages can act like basic calculators.
 
