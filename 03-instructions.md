@@ -1,7 +1,7 @@
 # Instructions
 
 
-We’re going to give you a chance to do some coding!
+We’re going to give you a chance to be a coder!
 
 Coders (also called computer programmers) do all kinds of tasks, from running simulations to creating websites. Coders work in lots of different jobs and fields. In the field of data science, for example, coders organize, visualize, and analyze data.
 
