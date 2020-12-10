@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
     <meta charset="UTF-8">
-    <title>Practice 2</title>
+    <title>Data Frames 4</title>
     <!--DataCamp Light script-->
     <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
 </head>
@@ -13,24 +13,31 @@
     <code data-type="pre-exercise-code">
       packages <- c("mosaic", "Lock5withR", "Lock5Data", "supernova", "ggformula")
       lapply(packages, library, character.only = T)
-
+      tracker <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRlxWBQO0juGS4qYwHWdNp07qYwCD7gGs8snnERrweP46WpZXLiQTqgvZTT2GZzm5u52peaUH3e5obT/pub?output=csv")
     </code>
     <!--Student view-->
     <code data-type="sample-code">
-      # Debug this code  - fix the mistake and press Submit
-      Sum(1,2)
+      # Try using arrange() and desc() together to view the longest distance first
+        
+        
 
     </code>
     <!--Solution environment-->
     <code data-type="solution">
-      # Debug this code  - fix the mistake and press Submit
-      sum(1,2)
+      arrange(tracker, desc(distance))
 
     </code>
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
-      ex() %>% check_error()
-      ex() %>% check_function("sum") %>% check_result() %>% check_equal() 
+
+      ex() %>% check_correct(
+        check_function(., "arrange") %>% check_result() %>% check_equal(), 
+        {
+            check_function(., "arrange") %>% check_arg(".data") %>% check_equal() 
+            check_function(., "arrange") %>% check_arg("...") %>% check_equal() 
+        }
+        
+        )
 
     </code>
   </div>

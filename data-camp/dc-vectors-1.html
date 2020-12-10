@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
     <meta charset="UTF-8">
-    <title>Practice 4</title>
+    <title>Vectors 1</title>
     <!--DataCamp Light script-->
     <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
 </head>
@@ -17,26 +17,19 @@
     </code>
     <!--Student view-->
     <code data-type="sample-code">
-    # Write some code that will store the answer to the question, "is the first element in the vector many.hellos "hi"? in an R object called firstIsHi
-    many.hellos <- c("hi", "hello", "hola", "bonjour", "ni hao", "merhaba")
-
+      # Run the code below 
+        sum(1,5,6)
 
     </code>
     <!--Solution environment-->
     <code data-type="solution">
-    # Write some code that will store the answer to the question, "is the first element in the vector many.hellos "hi"? in an R object called firstIsHi
-    many.hellos <- c("hi", "hello", "hola", "bonjour", "ni hao", "merhaba")
-
-    firstIsHi <- many.hellos[1] == "hi"
+        sum(1,5,6)
 
     </code>
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
+      ex() %>% check_function("sum") %>% check_result() %>% check_equal() 
 
-      ex() %>% {
-                check_operator(., "==") %>% check_result() %>% check_equal()
-                check_object(., "firstIsHi") %>% check_equal()
-            }
 
     </code>
   </div>
