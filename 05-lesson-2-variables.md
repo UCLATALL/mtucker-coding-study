@@ -2,7 +2,7 @@
 
 Let’s keep learning some R skills! These examples are a bit trickier than the ones you just saw.
 
-Often, when people do coding, they need to store the results of a calculation so they can refer to it later. For example, you might want your computer to remember pi for you.
+As coders, people need to store the results of a calculation so they can refer to it later. For example, you might want your computer to remember pi for you.
 
 For example, try running the code below:
 

@@ -24,6 +24,6 @@ Try checking whether 8 is equal to 8, and then check whether 8 + 8 is equal to 1
 
 <iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-Great work! You're doing some excellent R coding! Let's move on to the next lesson.
+Great work! You're being an excellent R coder! Let's move on to the next lesson.
 
 Click **Next** to go to Lesson 2
