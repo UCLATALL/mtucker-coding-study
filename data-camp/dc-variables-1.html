@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
     <meta charset="UTF-8">
-    <title>Example 6</title>
+    <title>Variables 1</title>
     <!--DataCamp Light script-->
     <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
 </head>
@@ -17,21 +17,26 @@
     </code>
     <!--Student view-->
     <code data-type="sample-code">
-    # Run the code and see what happens
-      my.vector <- c(1,2,3,4,5)
-      my.vector2 <- c("a", "b", "c", "d", "e")
-
-      my.vector
-      my.vector2
-
-
+      # This creates an object, pi, that stores the value of pi
+        pi = 3.14159265358979
+    
+      # Type pi to print the contents of pi below
+        
     </code>
     <!--Solution environment-->
     <code data-type="solution">
-
+        
+      # This creates an object, pi, that stores the value of pi 
+        pi = 3.14159265358979
+    
+      # Type "pi" to print the contents of pi
+        pi
+        
     </code>
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
+        ex() %>% check_object("pi") %>% check_equal() 
+        ex() %>% check_output_expr("pi")
 
     </code>
   </div>

@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
     <meta charset="UTF-8">
-    <title>Practice 1</title>
+    <title>Vectors 2</title>
     <!--DataCamp Light script-->
     <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
 </head>
@@ -17,24 +17,27 @@
     </code>
     <!--Student view-->
     <code data-type="sample-code">
-      # Use the sum() function to add the numbers 5, 10, 15
-
-      # Use the print() function to print the word "hello"
+      # Try using c() to create a step count vector with 1000, 700, and 8000 steps. Name the vector steps
+    
+      # Print steps below 
 
     </code>
     <!--Solution environment-->
     <code data-type="solution">
-      # Use the sum() function to add the numbers 5, 10, 15
-      sum(5, 10, 15)
-
-      # Use the print() function to print the word "hello"
-      print("hello")
+      steps = c(1000, 700, 8000)
+      steps 
 
     </code>
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
-      ex() %>% check_function("sum") %>% check_result() %>% check_equal() 
-      ex() %>% check_function("print") %>% check_result() %>% check_equal()
+      ex() %>% check_correct(
+        check_object(., "steps") %>% check_equal(),
+        {
+            check_function(.,"c") %>% check_result() %>% check_equal()
+        
+        }
+        ) 
+      ex() %>% check_output_expr("steps")
 
     </code>
   </div>
