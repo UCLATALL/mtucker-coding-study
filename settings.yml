@@ -1,11 +1,11 @@
 modules:
-  - name: "Coding Study"
+  - name: "Click here to start the study"
     lessons:
       - name: "Getting Started"
         file: "00-getting-started.md"
         shortName: "about"
       - name: "Consent"
-        file: "study/01-consent.md"
+        file: "01-consent.md"
         shortName: "consent"
       - name: "Pre-Survey"
         file: "02-pre-questionnaire.md"
