@@ -31,6 +31,6 @@ Notice that since each row represents one day's data, all the data from that day
 
 What if we want to see the longest distance first? We can use the `desc()` function to arrange distance from highest to lowest.
 
-Try using `arrange()` and `desc()` together to view the longest distance first
+Try using `arrange()` and `desc()` together to view the longest distance first.
 
 <iframe data-type="datacamp" id="df-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
