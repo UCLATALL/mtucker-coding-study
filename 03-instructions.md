@@ -9,4 +9,4 @@ Just like human languages, there are many computer programming languages, and ea
 
 On the next few pages, you'll complete some tasks designed to help you be a coder who uses the R programming language.
 
-Please try your best on each task, as this will result in deeper learning.
+Please try your best on each task.
