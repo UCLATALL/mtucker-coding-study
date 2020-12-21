@@ -2,7 +2,7 @@
 
 Let’s keep learning some R skills! These examples are a bit trickier than the ones you just saw.
 
-Often, when people do coding, they need to store the results of a calculation so they can refer to it later. For example, you might want your computer to remember pi for you.
+Often, when people code, they need to store the results of a calculation so they can refer to it later. For example, you might want your computer to remember pi for you.
 
 Try running the code below:
 
@@ -27,7 +27,7 @@ Try creating `fav_num` with the number `7`.
 
 <iframe data-type="datacamp" id="variables-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-variables-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-When we're doing coding, we call this variable reassignment. Variables are like buckets: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the bucket and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
+When we're coding, we call this variable reassignment. Variables are like buckets: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the bucket and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
 
 
 Great job! Let's move on to the next lesson.

@@ -10,7 +10,7 @@ For our app, we've made a data frame with sample health data and named it `track
 
 <iframe data-type="datacamp" id="df-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-Note that each row represents the step count, heart rate, distance, and amount of sleep for a different day. For now, you don't have to know how to create a data frame. But it's useful, when you're coding,  to know how to use them.
+Note that each row represents the step count, heart rate, distance, and amount of sleep for a different day. For now, you don't have to know how to create a data frame. But it's useful to know how to use them when you code.
 
 To view one variable of a data frame, we use `$`. For example, you could type `df$var` to view a variable named `var`. What do you think `df` stands for?
 
