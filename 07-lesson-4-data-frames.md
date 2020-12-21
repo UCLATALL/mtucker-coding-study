@@ -8,7 +8,7 @@ To keep all of these vectors in one place when we're coding, we can use data fra
 
 For our app, we've made a data frame with sample health data and named it `tracker`. Type its name in the window below to view it.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="df-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Note that each row represents the step count, heart rate, distance, and amount of sleep for a different day. For now, you don't have to know how to create a data frame. But it's useful, when you're coding,  to know how to use them.
 
@@ -16,7 +16,7 @@ To view one variable of a data frame, we use `$`. For example, you could type `d
 
 Try viewing just the `heart_rate` variable from our data frame.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="df-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Well done! Next, let's try using a new function. Many functions are meant to work with data frames. So, they take at least two arguments:
 
@@ -25,7 +25,7 @@ Well done! Next, let's try using a new function. Many functions are meant to wor
 
 Use the `arrange()` function to sort the data in ascending order by `distance`.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="df-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Notice that since each row represents one day's data, all the data from that day (row) moves together when we rearrange the data frame.
 
@@ -33,4 +33,4 @@ What if we want to see the longest distance first? We can use the `desc()` funct
 
 Try using `arrange()` and `desc()` together to view the longest distance first.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="df-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-data-frames-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
