@@ -27,7 +27,7 @@ Try creating `fav_num` with the number `7`.
 
 <iframe data-type="datacamp" id="variables-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-variables-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-When we're doing coding, we call this variable reassignment. Variables are like buckets: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the bucket and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
+Coders call this variable reassignment. Variables are like buckets: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the bucket and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
 
 
 Great job! Let's move on to the next lesson.
