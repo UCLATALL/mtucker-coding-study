@@ -4,7 +4,7 @@ As you know, health tracker apps collect a lot more than just step counts. They 
 
 We could store all of this information in separate vectors, and in fact that's what we are going to do.
 
-To keep all of these vectors in one place when we're coding, we can use data frames. Think of a data frame as a data table and a vector as a column in that table.
+To keep all of these vectors in one place, coders use data frames. Think of a data frame as a data table and a vector as a column in that table.
 
 For our app, we've made a data frame with sample health data and named it `tracker`. Type its name in the window below to view it.
 
