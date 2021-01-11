@@ -10,7 +10,7 @@ Functions are like little machines: you put some stuff in it, and depending on w
 
 Try running the code below to see what we mean!
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="vectors-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Great job! As you can probably see, the `sum()` function adds numbers together. You put numbers in, and it puts out the sum of those numbers.
 
@@ -22,14 +22,14 @@ That's what vectors are for! When we want to make a vector, we can use the `c()`
 
 Try using `c()` to create a step count vector that stores the number of steps you walked for each of the past three days: on Monday you walked 1000 steps, on Tuesday you walked 700 steps, and on Wednesday you walked 8000 steps. Name the vector `steps`.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="vectors-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Nice coding! Another useful function is length(). Use this to find the length of our vector.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="vectors-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 You're doing great! Let's try putting what we've learned together. Try using the `sum()` and `length()` function together to find the *mean* number of steps taken over the three days. Remember, the mean is the sum of all the values in the vector divided by the total number of values in the vector.
 
-<iframe data-type="datacamp" id="example-01" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe data-type="datacamp" id="vectors-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Great job! Let's move on to the next lesson.
