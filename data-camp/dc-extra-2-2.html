@@ -3,7 +3,7 @@
     
 <head>
     <meta charset="UTF-8">
-    <title>Extra 1-2</title>
+    <title>Extra 2-2</title>
     <!--DataCamp Light script-->
     <script async src="https://cdn.jsdelivr.net/gh/uclatall/datacamp-light@build/dist/dcl-react.js"></script>
 </head>
@@ -21,31 +21,24 @@
       
     <!--Student view-->
     <code data-type="sample-code">
-      # Filter tracker in a way that removes extremely large values of heart_rate
-      # Assign the result to an object named tracker
-        
+      # Modify the code below so that it graphs distance instead of heart_rate
 
+      gf_histogram(~heart_rate, data = tracker)
     </code>
       
       
     <!--Solution environment-->
     <code data-type="solution">
-     # There are different possible solutions, as long as you filter out the incorrectly entered value 
-      tracker = filter(tracker, heart_rate < 150)
-        
-
+      gf_histogram(~distance, data = tracker)
     </code>
       
     <!--Submission correctness tests and feedback-->
     <code data-type="sct">
-     ex() %>% check_correct(
-       check_object(., "tracker") %>% check_equal(),
-       {
-         check_error(.)
-         check_function(.,"filter") %>% check_result() %>% check_equal()
-       }
-     )
-
+     ex() %>% check_function("gf_histogram") %>% {
+       check_arg(., "object") %>% check_equal(eval=FALSE)
+       check_arg(., "data") %>% check_equal()
+     }
+     
     </code>
   </div>
 </body>
