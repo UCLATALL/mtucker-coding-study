@@ -8,7 +8,7 @@ Functions are a new concept: think of them as commands we can use to accomplish 
 
 Functions are like little machines: you put some stuff in it, and depending on what you put in, something comes out.
 
-Try running the code below to see what we mean!
+Below, we've put an example using the `sum()` function. Try running the code to see what we mean!
 
 <iframe data-type="datacamp" id="vectors-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
@@ -16,7 +16,7 @@ Great job! As you can probably see, the `sum()` function adds numbers together. 
 
 Coders can use functions to solve lots of interesting problems. Here is one: instead of storing a single value in a variable, what if we wanted to store multiple values together?
 
-For example, you might want to keep track of the number of steps you've taken over the past three days. How could you store all those numbers in one variable?
+For example, let's say we wanted to create a health tracker app. One thing you could track is the number of steps you've taken over the past three days. How could you store all those numbers in one variable?
 
 That's what vectors are for! When we want to make a vector, we can use the `c()` function and feed it the arguments we want to store in the vector. In this case, `c` is the name of the function, and the output is a vector containing all the values we put into it. Remember, a vector is a variable that stores multiple values at once.
 

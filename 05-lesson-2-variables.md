@@ -14,7 +14,7 @@ Create a variable named `fav_num` and assign it to your favorite number.
 
 <iframe data-type="datacamp" id="variables-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-variables-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-Awesome! But variables seem pretty boring by themselves. What's the point? One thing we could try is using our variables in a regular old calculation.
+Awesome! But variables seem pretty boring by themselves. What's the point? One thing we could try is using our variables in a calculation.
 
 What happens when you type `fav_num + 1`?
 
@@ -27,7 +27,7 @@ Try creating `fav_num` with the number `7`.
 
 <iframe data-type="datacamp" id="variables-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-variables-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-When we're coding, we call this variable reassignment. Variables are like buckets: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the bucket and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
+When we're coding, we call this variable reassignment. Variables are containers: we can put stuff in them. When we reassigned the variable, we just took out the number that was already in the container and replaced it with something else. That's why it's called a variable: we are able to vary (change) it.
 
 
 Great job! Let's move on to the next lesson.
