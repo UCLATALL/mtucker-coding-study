@@ -2,7 +2,9 @@
 
 Most programming languages can act like basic calculators.
 
-Try calculating `627 / 3` in the script.R window below. (The character `#` means that everything on that line is a comment.)
+Try calculating `627 / 3` in the script.R window on the left. You will see the results of your code in the console on the right. (The character `#` means that everything on that line is a comment, and will be ignored by the computer.)
+
+Tip: for the best experience, don't delete anything that we've already put in the script windows.
 
 <iframe data-type="datacamp" id="operators-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
@@ -14,7 +16,6 @@ Try running `100 * 2 + 5`  and then `100 * (2 + 5)` in the window below.
 
 <iframe data-type="datacamp" id="operators-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-What happens if you type `8 + 8 = 16`?
 
 <iframe data-type="datacamp" id="operators-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
