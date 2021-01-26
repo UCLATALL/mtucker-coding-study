@@ -20,7 +20,7 @@ Now, create a scatterplot for `steps` using `1` in place of the `x` variable.
 
 <iframe data-type="datacamp" id="extra-7-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-extra-7-2.html"></iframe>
 
-Now we're ready to layer a `gf_boxplot()` over a `gf_point()`, using the pipe (`%>%`). 
+Now we're ready to see what the two functions look like on the same graph. We can combine functions using the pipe symbol: `%>%`. 
 
 Create a layered boxplot and scatterplot for our `steps` data. Notice that they are different representations of the same underlying data.
 
