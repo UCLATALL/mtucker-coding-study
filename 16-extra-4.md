@@ -8,7 +8,7 @@ The function `gf_point` takes only two main arguments, just like the other `gf_*
 
 Use `gf_point()` to find out whether `heart_rate` and `distance` are related. 
 
-[DC]
+<iframe data-type="datacamp" id="extra-4-1" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-extra-4-1.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 Notice that the points seem to fall on a rough line: lower values of heart rate correspond to lower values of distance, and higher heart rate to longer distance. This makes sense, because your heart rate increases with prolonged periods of exertion. 
 
@@ -16,6 +16,6 @@ When points seem to fall on a line instead of being randomly spread out, this te
 
 Are `steps` and `sleep` related?
 
-[DC]
+<iframe data-type="datacamp" id="extra-4-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-extra-4-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
 On this graph, we don't see much of a pattern in the data: everything is scattered haphazardly.
