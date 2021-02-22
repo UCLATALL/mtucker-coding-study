@@ -14,7 +14,7 @@ Below, we've put an example using the `sum()` function. Try running the code to 
 
 Great job! As you can probably see, the `sum()` function adds numbers together. You put numbers in, and it puts out the sum of those numbers.
 
-Coders can use functions to solve lots of interesting problems. Here is one: instead of storing a single value in a variable, what if we wanted to store multiple values together?
+When we're coding we can use functions to solve lots of interesting problems. Here is one: instead of storing a single value in a variable, what if we wanted to store multiple values together?
 
 For example, let's say we wanted to create a health tracker app. One thing you could track is the number of steps you've taken over the past three days. How could you store all those numbers in one variable?
 
