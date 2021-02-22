@@ -23,3 +23,6 @@ Remember how we used the `bins` argument to adjust our histograms? `bins` is onl
 Try using a combination of these to improve our scatterplot in our first scatterplot + boxplot graph. Why is this a better representation of our data?
 
 <iframe data-type="datacamp" id="extra-8-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-extra-8-3.html"></iframe>
+
+
+Great job! Click [**Here**](https://uclapsych.qualtrics.com/jfe/form/SV_24zyJv5sB10fdxI) to finish the study  
