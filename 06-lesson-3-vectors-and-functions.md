@@ -24,7 +24,7 @@ Try using `c()` to create a step count vector that stores the number of steps yo
 
 <iframe data-type="datacamp" id="vectors-2" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-2.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-Nice job, coder! Another useful function is length(). Use this to find the length of our vector.
+Nice job coding! Another useful function is length(). Use this to find the length of our vector.
 
 <iframe data-type="datacamp" id="vectors-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-vectors-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
