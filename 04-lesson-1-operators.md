@@ -19,12 +19,12 @@ Try running `100 * 2 + 5`  and then `100 * (2 + 5)` in the window below.
 
 <iframe data-type="datacamp" id="operators-3" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-3.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-You get an error. That's because coders use the `=` operator to create variables, which we will talk about later. If we want to check whether two values are equal to each other, use `==`.
+You get an error. That's because when we're coding, we use the `=` operator to create variables, which we will talk about later. If we want to check whether two values are equal to each other, use `==`.
 
 Try checking whether `8` is equal to `8`, and then check whether `8 + 8` is equal to `16`.
 
 <iframe data-type="datacamp" id="operators-4" height="350" src="https://uclatall.github.io/mtucker-coding-study/data-camp/dc-operators-4.html" style="border: 0px #ffffff none;" width="100%"></iframe>
 
-Great work! You're on your way to being a coder! Let's move on to the next lesson.
+Great work! You're doing a great job coding! Let's move on to the next lesson.
 
 Click **Next** to go to Lesson 2.
