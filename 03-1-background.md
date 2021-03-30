@@ -2,7 +2,7 @@
 
 Throughout these lessons, we will be working with a data set adapted from the Healthy Sleep Study, conducted by the Sleep Behavior Lab at a large research university. In this study, researchers Garrett Jorgensen, Molly Burke, Dan Schuster, and Kaitlyn Albertoni studied how exercise may help improve sleep quality.
 
-| Garrett Jorgensen         | Molly Burke                 | Dan Schuster               | Kaitlyn Albertoni           |
+| Patrick Edwards           | Debra Bailey                | Paul Carter                | Carlotta Caputo             |
 | ------------------------- | --------------------------- | -------------------------- | --------------------------- |
 | ![](img/white-male-2.jpg) | ![](img/white-female-1.jpg) | ![](img/white-male-10.jpg) | ![](img/white-female-3.jpg) |
 
@@ -12,15 +12,15 @@ Burke, Schuster, Albertoni, and Jorgensen used the tools of data analysis to fin
 
 # Other names
 
-| Lauren Wanzo                | Joseph Salazar             | Andrea Esparza               | Dustin Hoa                |
-| --------------------------- | -------------------------- | ---------------------------- | ------------------------- |
-| ![](img/black-female-1.jpg) | ![](img/latino-male-1.jpg) | ![](img/latina-female-1.jpg) | ![](img/asian-male-2.jpg) |
+| Shawnta Sanders             | Osbaldo Estrada            | Areli Esparza                | Toshia Nakagawa             |
+| --------------------------- | -------------------------- | ---------------------------- | --------------------------- |
+| ![](img/black-female-1.jpg) | ![](img/latino-male-1.jpg) | ![](img/latina-female-1.jpg) | ![](img/asian-female-4.jpg) |
 
-| Luis Mendoza               | Stephen Austin            | Dustin Hoa                | Joseph Salazar             |
+| Kevin Lemus                | Keshaun Sanders           | Neiko Nakagawa            | Osbaldo Estrada            |
 | -------------------------- | ------------------------- | ------------------------- | -------------------------- |
 | ![](img/latino-male-2.jpg) | ![](img/black-male-6.jpg) | ![](img/asian-male-5.jpg) | ![](img/latino-male-3.jpg) |
 
-| Bruce Ogilvie             | Mikhail Korotev           | Garrett Jorgensen         | Dan Schuster              |
+| Patrick Edwards           | Don Carter                | Paul Bailey               | Carson Caputo             |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | ![](img/white-male-3.jpg) | ![](img/white-male-4.jpg) | ![](img/white-male-1.jpg) | ![](img/white-male-5.jpg) |
 
